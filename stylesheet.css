@@ -1,0 +1,117 @@
+header {
+width: 100%;
+background-color: #663399;
+text-align: center;
+color: white;
+padding: 5px;
+}
+
+body
+{ background-color: LemonChiffon;
+  font-family: calibri;
+font-size: 12pt;
+line-height: 14pt;
+padding: 5px;
+}
+
+html, body {
+min-height: 100%;
+}
+
+h1 {
+font-family: calibri;
+font-size: 50px;
+color: PaleGoldenrod;
+margin-left: 150px;
+}
+
+h2 {
+font-family: calibri;
+font-size: 50px;
+color: DarkOrchid;
+margin-left: 100px;
+}
+
+ul a {
+  color: black;
+  text-decoration: none;
+  }
+
+li {
+display: inline-block;
+height: 22px;
+width: 100px;
+padding: 12px;
+text-align: center;
+color: black;
+border-left: 2px solid Orchid;
+border-right: 1px solid Orchid;
+background-color: Orchid;
+margin-left: 550px;
+}
+
+li:hover {
+  background-color: Thistle;
+  border-style: none;
+}
+
+p {
+font-family: calibri;
+font-size: 16px;
+color: black;
+margin-left: 100px;
+}
+
+.img-katja {
+  width: 160px;
+  height: 250px;
+}
+
+table {
+  width: 90%;
+  border: 1px solid;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+td, th {
+  text-align: center;
+  padding: 10px 5px;
+  background-color: Lavender;
+}
+
+form {
+  margin-left: 40%;
+}
+
+input[type="text"], input[type="email"], textarea, select, button {
+  display: block;
+  margin: 15px 0px;
+  width: 400px;
+  box-sizing: border-box;
+  border-radius: 4px;
+  box-shadow: inset 2px 2px 5px Thistle;
+}
+
+textarea {
+  height: 200px;
+  background-color: Lavender;
+  padding: 5px 4px;
+}
+
+button:active {
+  background-color: DarkOrchid;
+  color: LemonChiffon;
+  border-radius: 8px
+  box-shadow: inset 2px 2px 5px DarkViolet;
+}
+
+footer {
+width: 100%;
+background-color: #663399;
+text-align: center;
+color: PaleGoldenrod;
+padding: 5px;
+position: absolute;
+bottom: 0;
+}
