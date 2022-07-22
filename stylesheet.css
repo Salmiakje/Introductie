@@ -1,18 +1,3 @@
-#page-container {
-  position: relative;
-  min-height: 100vh;
-}
-
-#content-wrap {
-  padding-bottom: 2.5rem;    /* Footer height */
-header {
-width: 100%;
-background-color: #663399;
-text-align: center;
-color: white;
-padding: 5px;
-}
-
 body
 { background-color: LemonChiffon;
   font-family: calibri;
