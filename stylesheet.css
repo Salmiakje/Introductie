@@ -1,3 +1,10 @@
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
 header {
 width: 100%;
 background-color: #663399;
@@ -114,4 +121,5 @@ color: PaleGoldenrod;
 padding: 5px;
 position: absolute;
 bottom: 0;
+height: 2.5rem;            /* Footer height */
 }
