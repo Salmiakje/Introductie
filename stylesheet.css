@@ -1,6 +1,14 @@
-body
-{ background-color: LemonChiffon;
-  font-family: calibri;
+header {
+width: 100%;
+background-color: #663399;
+text-align: center;
+color: white;
+padding: 5px;
+}
+
+body { 
+background-color: LemonChiffon;
+font-family: calibri;
 font-size: 12pt;
 line-height: 14pt;
 padding: 5px;
