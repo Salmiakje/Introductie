@@ -67,8 +67,6 @@ margin-left: 100px;
 .img-katja {
   width: 160px;
   height: 250px;
-  
-#katja {
   style="float:right;padding-left:50px;"
   }
 
@@ -91,9 +89,8 @@ form {
 
 input[type="text"], input[type="email"], textarea, select, button {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 60%;
+  margin: 15px 0px;
+  width: 400px;
   box-sizing: border-box;
   border-radius: 4px;
   box-shadow: inset 2px 2px 5px Thistle;
