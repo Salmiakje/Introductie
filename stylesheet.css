@@ -91,8 +91,9 @@ form {
 
 input[type="text"], input[type="email"], textarea, select, button {
   display: block;
-  margin: 15px 0px;
-  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%px;
   box-sizing: border-box;
   border-radius: 4px;
   box-shadow: inset 2px 2px 5px Thistle;
