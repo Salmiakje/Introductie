@@ -32,12 +32,15 @@ color: DarkOrchid;
 margin-left: 100px;
 }
 
-ul a {
-  color: black;
-  text-decoration: none;
+nav {
   width: 60%;
   margin-left: auto;
   margin-right: auto;
+}
+
+ul a {
+  color: black;
+  text-decoration: none;
   }
 
 li {
