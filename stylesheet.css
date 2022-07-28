@@ -67,6 +67,10 @@ margin-left: 100px;
 .img-katja {
   width: 160px;
   height: 250px;
+  
+#katja {
+  style="float:right;padding-left:50px;"
+  }
 }
 
 table {
