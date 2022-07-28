@@ -75,6 +75,7 @@ table {
   border: 1px solid;
   margin-left: 100px;
   margin-right: 100px;
+  display: table;
 }
 
 td, th {
