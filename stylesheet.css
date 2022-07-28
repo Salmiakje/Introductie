@@ -114,7 +114,8 @@ button:active {
 }
 
 footer {
-width: 100%;
+width: 90%;
+margin: auto;
 background-color: #663399;
 text-align: center;
 color: PaleGoldenrod;
