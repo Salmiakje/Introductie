@@ -35,6 +35,9 @@ margin-left: 100px;
 ul a {
   color: black;
   text-decoration: none;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
   }
 
 li {
@@ -47,7 +50,6 @@ color: black;
 border-left: 2px solid Orchid;
 border-right: 1px solid Orchid;
 background-color: Orchid;
-margin-left: 550px;
 }
 
 li:hover {
